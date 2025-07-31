@@ -1,0 +1,11 @@
+C:\Users\sidkr\Documents\GitHub\NotePad\rust_notepad\target\debug\deps\liblibloading-be60fcd9ea600e82.rmeta: C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\lib.rs C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\changelog.rs C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\os\mod.rs C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\os\windows\mod.rs C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\util.rs C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\error.rs C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\safe.rs
+
+C:\Users\sidkr\Documents\GitHub\NotePad\rust_notepad\target\debug\deps\libloading-be60fcd9ea600e82.d: C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\lib.rs C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\changelog.rs C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\os\mod.rs C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\os\windows\mod.rs C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\util.rs C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\error.rs C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\safe.rs
+
+C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\lib.rs:
+C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\changelog.rs:
+C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\os\mod.rs:
+C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\os\windows\mod.rs:
+C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\util.rs:
+C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\error.rs:
+C:\Users\sidkr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.8.8\src\safe.rs:
